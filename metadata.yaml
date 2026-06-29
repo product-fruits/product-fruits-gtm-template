@@ -3,5 +3,5 @@ versions:
   # Each entry maps a released gallery version to the git commit that contains
   # the corresponding template.tpl. After you commit template.tpl, replace the
   # sha below with that commit's full hash (git rev-parse HEAD).
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 5c09c3548562746791270e57841f55bac151d305
     changeNotes: Initial release
